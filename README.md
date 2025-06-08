@@ -10,3 +10,5 @@ These exercises are done in a Jupyter Notebook environment using different libra
 3rd laboratory exercise: data processing the Mice Protein Expression dataset from UCI ML Repo and comparing the clustering methods GMM, K-means, Hierarchical Clustering and DBSCAN.
 
 4th laboratory exercise: data processing the Car Evaluation dataset from UCI ML Repo and comparing Decison Tree, Random Forest and Neural Network in classification using different metrics.
+
+5th laboratory exercise: data processing the Premier League dataset from Kaggle and using different regression techniques like Linear Regression, Decision Tree Regressor, SVR, Neural Networks etc. to predict the 2024/25 champion based on results from previous years.
